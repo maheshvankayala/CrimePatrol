@@ -1,15 +1,14 @@
-#1.Crime Patrol
+#1.Team name - Crime Patrol
 #Project Group 2F
 
-Karunakar Reddy Katasani
-Naga Sai Meghana Mayaluri
-Nagateja Seetharama Srinivas Prakash Pakala
-Venkata Naga Mahesh Kumar Vankayala
-
+Karunakar Reddy Katasani(s530472@nwmissouri.edu)
+Naga Sai Meghana Mayaluri(s530475@nwmissouri.edu)
+Nagateja Seetharama Srinivas Prakash Pakala(s530715@nwmissouri.edu)
+Venkata Naga Mahesh Kumar Vankayala(s528870@nwmissouri.edu)
 #Project Pair 2-11
 
 Karunakar Reddy Katasani
-Naga Sai Meghana Mayaluri 
+Naga Sai Meghana Mayaluri
 
 #Project Pair 2-12
 
@@ -19,11 +18,19 @@ Venkata Naga Mahesh Kumar Vankayala
 #2. Link to the public repository
 https://github.com/maheshvankayala/CrimePatrol
 
-#3. Introduction 
-The project mainly focuses on crimes took over in 2 cities like new york and baltimore.
-From the crime data a further analysis is done based on the district,time and weapon used the most.
+#issues
+1. https://github.com/maheshvankayala/CrimePatrol/issues/1
+2. https://github.com/maheshvankayala/CrimePatrol/issues/2
+3. https://github.com/maheshvankayala/CrimePatrol/issues/3
+4. https://github.com/maheshvankayala/CrimePatrol/issues/4
 
-#4. Dataset  1:
+
+#3. Introduction 
+The project mainly focuses on crimes took over in 2 cities new york and baltimore.
+The structured data provides the time of a particular time occured at a particular location, type of weapon used,
+type of crime the location provides latitude and longitude and also provides the district where the crime took place.
+
+#4. Dataset 1:
 Crime in Baltimore:
 Dataset size: 40MB
 Values: 200(350-500)
@@ -55,8 +62,22 @@ At what time the most crimes occured?
 With what kind of weapon type the crimes took place?
 
 #8. Big data Solutions
-1.9/2/2017	23:30:00	3JK	4200 AUDREY AVE	ROBBERY - RESIDENCE	I	KNIFE	913	SOUTHERN	Brooklyn	-76.60541	39.22951	(39.2295100000, -76.6054100000)	ROW/TOWNHO	1
-2.9/2/2017,23:30:00,3JK,4200 AUDREY AVE	ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1
-3.NORTHWESTERN,20:10:10
+#Crime District
+1.9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1
+2.9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1
+3.SOUTHERN,1
+#Crime Weapon
+1.9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1
+2.9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1
+3.Knife,1
+#Crime Time
+1.9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1
+2.9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1
+3.23:30:00,1
+#Crime Type
+1.9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1
+2.9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1
+3.ROBBERY,1
+
 4.Python
 5.Pie Chart
