@@ -1,4 +1,5 @@
 #1.Team name - Crime Patrol
+Course Number: 44-564
 ###Project Group 2F
 
      Karunakar Reddy Katasani(s530472@nwmissouri.edu)
@@ -67,10 +68,10 @@
     VALUE: Looking with the criminal data we can improve police protection at required spots, times in cities.
 
 ###7. Big data Questions
-    In what District most crimes took place?- Karunakar Reddy Katasani
-    What type of crime took place the most? - Naga Sai Meghana Mayaluri
-    At what time the most crimes occured? - Nagateja Seetharama Srinivas Prakash Pakala
-    With what kind of weapon type the crimes took place? - Venkata Naga Mahesh Kumar Vankayala
+    For each district, what is the highest count of crimes that took place?- Karunakar Reddy Katasani
+    For each type of crime, which took place the most? - Naga Sai Meghana Mayaluri
+    For each crime, at what time the most crimes took place? - Nagateja Seetharama Srinivas Prakash Pakala
+    For each crime, which weapon is used most in the crime? - Venkata Naga Mahesh Kumar Vankayala
 
 ###8. Big data Solutions
 ####Crime District(Karunakar Reddy Katasani)
