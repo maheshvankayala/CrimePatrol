@@ -80,7 +80,7 @@ Course Number: 44-564
         3.SOUTHERN,1
         4.Python
         5.Bar Graph
-####Crime Weapon(Venkata Naga Mahesh Kumar Vankayala)
+####Crime Weapon(Naga Sai Meghana Mayaluri)
         1.9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1
         2.9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1
         3.Knife,1
@@ -92,7 +92,7 @@ Course Number: 44-564
         3.23:30:00,1
         4.Python
         4.Sorted Bar Chart
-####Crime Type(Naga Sai Meghana Mayaluri)
+####Crime Type(Venkata Naga Mahesh Kumar Vankayala)
         1.9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1
         2.9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1
         3.ROBBERY,1
