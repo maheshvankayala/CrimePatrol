@@ -69,9 +69,9 @@ Course Number: 44-564
 
 ###7. Big data Questions
     For each district, what is the highest count of crimes that took place?- Karunakar Reddy Katasani
-    For each type of crime, which took place the most? - Naga Sai Meghana Mayaluri
+    For each type of crime, which took place the most? - Venkata Naga Mahesh Kumar Vankayala
     For each crime, at what time the most crimes took place? - Nagateja Seetharama Srinivas Prakash Pakala
-    For each crime, which weapon is used most in the crime? - Venkata Naga Mahesh Kumar Vankayala
+    For each crime, which weapon is used most in the crime? -  Naga Sai Meghana Mayaluri
 
 ###8. Big data Solutions
 ####Crime District(Karunakar Reddy Katasani)
