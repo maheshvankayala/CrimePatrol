@@ -1,5 +1,5 @@
-f = open('crimedata.txt','r') #Opening crimedata.txt in read mode and storing it in file f
-o = open('output.txt','w') #Opening output.txt in write mode and storing it in file o
+f = open('crimedata.txt','r') #Opening crimedata.txt in read mode 
+o = open('output.txt','w') #Opening output.txt in write mode 
 
 for data in f:
     input = data.strip().split(',') #Striping the data and splitting the data columns with comma(,) separated
