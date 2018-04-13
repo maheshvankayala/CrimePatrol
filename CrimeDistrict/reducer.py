@@ -14,7 +14,7 @@ for line in sortedFile:
     district, crimes = data
     if district != thisKey:
         if thisKey !="" and thisKey:
-            reducedFile.write(thisKey + '\t' + str(minimum)+'\t' + str(maximum)+'\n')
+            #reducedFile.write(thisKey + '\t' + str(minimum)+'\t' + str(maximum)+'\n')
             count = count + 1
         thisKey = district
         thisValue = 0
@@ -26,7 +26,7 @@ for line in sortedFile:
         maximum=crimes
         maxDistrict=district
     # In the below step we are initializing the minimum value for the first time with one of the values in the records
-    # Since minimum value cannot be initialized to aero for comparision purpose
+    # Since minimum value cannot be initialized to zero for comparision purpose
     if count == 0:
         minimum = crimes
     # After initializing the minimum value we start comparing the present values with the minimum value
@@ -34,8 +34,11 @@ for line in sortedFile:
     elif (crimes<minimum):
         minimum=crimes
         minDistrict=district
-print 'Minimum number of crimes are found in '+minDistrict+' district with a count of'+str(minimum)+' crimes'
+print 'Minimum number of crimes are found in '+minDistrict+' district with a count of '+str(minimum)+' crimes'
 print 'Maximum number of crimes are found in '+maxDistrict+' district with a count of '+str(maximum)+' crimes'
+reducedFile.write(minDistrict + '\t' + str(minimum)+'\n')
+reducedFile.write(maxDistrict + '\t' + str(maximum)+'\n')
+
 
 sortedFile.close()
 reducedFile.close()

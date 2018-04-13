@@ -1,3 +1,4 @@
+__author__ = "Karunakar Reddy Katasani"
 f = open('crimedata.txt','r') #Opening crimedata.txt in read mode 
 o = open('output.txt','w') #Opening output.txt in write mode 
 
