@@ -2,19 +2,19 @@
 Course Number: 44-564
 ### Project Group 2F
 
-     Karunakar Reddy Katasani(s530472@nwmissouri.edu)
+   Karunakar Reddy Katasani(s530472@nwmissouri.edu)
      Course: MS-ACS
      Semester:02
 
-     Naga Sai Meghana Mayaluri(s530475@nwmissouri.edu)
+   Naga Sai Meghana Mayaluri(s530475@nwmissouri.edu)
      Course: MS-ACS
      Semester:02
 
-     Nagateja Seetharama Srinivas Prakash Pakala(s530715@nwmissouri.edu)
+   Nagateja Seetharama Srinivas Prakash Pakala(s530715@nwmissouri.edu)
      Course: MS-ACS
      Semester:02
 
-     Venkata Naga Mahesh Kumar Vankayala(s528870@nwmissouri.edu)
+   Venkata Naga Mahesh Kumar Vankayala(s528870@nwmissouri.edu)
      Course: MS-ACS
      Semester:04
 ### Project Pair 2-11
@@ -57,8 +57,8 @@ Course Number: 44-564
         Format: Structured
 
 ### 5.Link for the dataset
-   Link for dataset1 (Crime in Baltimore)- https://www.kaggle.com/sohier/crime-in-baltimore
-   Link for dataset2 (Newyork City Crimes)- https://www.kaggle.com/adamschroeder/crimes-new-york-city/version/1#_=_
+Link for dataset1 (Crime in Baltimore)- https://www.kaggle.com/sohier/crime-in-baltimore
+Link for dataset2 (Newyork City Crimes)- https://www.kaggle.com/adamschroeder/crimes-new-york-city/version/1#_=_
 
 ### 6. Big data Qualifications
     VOLUME: The size of our data set is 253.42 MB,40 MB.
