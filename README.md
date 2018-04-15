@@ -74,13 +74,18 @@ Course Number: 44-564
     For each crime, which weapon is used most in the crime? -  Naga Sai Meghana Mayaluri
 
 ### 8. Big data Solutions  
-#### Crime District(Karunakar Reddy Katasani)  
+**Crime District(Karunakar Reddy Katasani)**  
         1.9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1  
         2.9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1  
-        3.SOUTHERN,1  
-        4.Python  
-        5.Bar Graph  
-#### Crime Weapon(Naga Sai Meghana Mayaluri)  
+        3.Key,value-SOUTHERN,1  
+        4.Language- Python  
+        5.Kind of Chart- Bar Graph 
+       ![screenshot 240](https://user-images.githubusercontent.com/31742996/38780308-2dc19e58-409a-11e8-9d73-14e776ea79e7.png)
+        Mapper output screenshot:
+         ![screenshot 237](https://user-images.githubusercontent.com/31742996/38780254-2d51073e-4099-11e8-8f61-829d40950009.png)
+        Reducer output screenshot:
+        ![screenshot 238](https://user-images.githubusercontent.com/31742996/38780313-45fc9374-409a-11e8-99e1-49c947f5c17e.png)
+**Crime Weapon(Naga Sai Meghana Mayaluri)**  
         1.9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1  
         2.9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1  
         3.Knife,1  
