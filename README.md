@@ -75,9 +75,9 @@ Course Number: 44-564
 
 ### 8. Big data Solutions  
 **Crime District(Karunakar Reddy Katasani)**  
-        1.9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1  
-        2.9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1  
-        **3.Key,value**-SOUTHERN,1  
+        **1.Mapper Input**-9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1  
+        **2.Mapper Output**-9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1  
+        **3.Reducer output**-SOUTHERN,1  
         **4.Language**- Python  
         **5.Kind of Chart**- Bar Graph 
        ![screenshot 240](https://user-images.githubusercontent.com/31742996/38780308-2dc19e58-409a-11e8-9d73-14e776ea79e7.png)
@@ -86,9 +86,9 @@ Course Number: 44-564
         **Reducer output screenshot:**
         ![screenshot 238](https://user-images.githubusercontent.com/31742996/38780313-45fc9374-409a-11e8-99e1-49c947f5c17e.png)
 **Crime Weapon(Naga Sai Meghana Mayaluri)**  
-        1.9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1  
-        2.9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1  
-        **3.Key,value**-Knife,1  
+        **1.Mapper Input**-9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1  
+        **2.Mapper Output**-9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1  
+        **3.Reducer output**-Knife,1  
         **4.Language**- Python  
         **5.Kind of Chart**-Sorted Bar Chart 
         ![screenshot 146](https://user-images.githubusercontent.com/31742996/38780388-0d402fc2-409b-11e8-9003-df9855dbb6ec.png)
@@ -98,9 +98,9 @@ Course Number: 44-564
         ![screenshot 143](https://user-images.githubusercontent.com/31742996/38780398-321e3f50-409b-11e8-9e49-ea0bba6d6960.png)
 
 **Crime Time(Nagateja Seetharama Srinivas Prakash Pakala)**  
-        1.9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1  
-        2.9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1  
-        **3.Key,value**-23:30:00,1  
+        **1.Mapper Input**-9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1  
+        **2.Mapper Output**-9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1  
+        **3.Reducer output**-23:30:00,1  
         **4.Language**-Python  
          **5.Kind of Chart**-Sorted Bar Chart
          [Pakala_Output.xlsx](https://github.com/maheshvankayala/CrimePatrol/files/1913499/Pakala_Output.xlsx)
@@ -110,8 +110,8 @@ Course Number: 44-564
          ![pakala_reduceroutput](https://user-images.githubusercontent.com/31742996/38784609-f03f21dc-40d9-11e8-9081-cd2c25ace6c2.png)
          
 **Crime Type(Venkata Naga Mahesh Kumar Vankayala)**  
-        1.9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1  
-        2.9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1  
+        **1.Mapper Input**-9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1  
+        **2.Mapper Output**-9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1  
         **3.Reducer output**-ROBBERY,1  
         **4.Language**-Python  
         **5.Kind of Chart**-Pie Chart 
