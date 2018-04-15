@@ -37,7 +37,7 @@ Course Number: 44-564
      4. https://github.com/maheshvankayala/CrimePatrol/issues/4  
 
 
-### 3. Introduction 
+**3. Introduction**
     The project mainly focuses on crimes took over in 2 cities new york and baltimore.
     The structured data provides the time of a particular time occured at a particular location, type of weapon used,
     type of crime the location provides latitude and longitude and also provides the district where the crime took place.
@@ -77,20 +77,26 @@ Course Number: 44-564
 **Crime District(Karunakar Reddy Katasani)**  
         1.9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1  
         2.9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1  
-        3.Key,value-SOUTHERN,1  
-        4.Language- Python  
-        5.Kind of Chart- Bar Graph 
+        **3.Key,value**-SOUTHERN,1  
+        **4.Language**- Python  
+        **5.Kind of Chart**- Bar Graph 
        ![screenshot 240](https://user-images.githubusercontent.com/31742996/38780308-2dc19e58-409a-11e8-9d73-14e776ea79e7.png)
-        Mapper output screenshot:
+        **Mapper output screenshot:**
          ![screenshot 237](https://user-images.githubusercontent.com/31742996/38780254-2d51073e-4099-11e8-8f61-829d40950009.png)
-        Reducer output screenshot:
+        **Reducer output screenshot:**
         ![screenshot 238](https://user-images.githubusercontent.com/31742996/38780313-45fc9374-409a-11e8-99e1-49c947f5c17e.png)
 **Crime Weapon(Naga Sai Meghana Mayaluri)**  
         1.9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1  
         2.9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1  
-        3.Knife,1  
-        4.Python  
-        5.Sorted Bar Chart  
+        **3.Key,value**-Knife,1  
+        **4.Language**- Python  
+        **5.Kind of Chart**-Sorted Bar Chart 
+        ![screenshot 146](https://user-images.githubusercontent.com/31742996/38780388-0d402fc2-409b-11e8-9003-df9855dbb6ec.png)
+        **Mapper output screenshot:**
+        ![screenshot 142](https://user-images.githubusercontent.com/31742996/38780393-21169f0e-409b-11e8-8ae2-9cd0b0fade91.png)
+        **Reducer output screenshot:**
+        ![screenshot 143](https://user-images.githubusercontent.com/31742996/38780398-321e3f50-409b-11e8-9e49-ea0bba6d6960.png)
+
 #### Crime Time(Nagateja Seetharama Srinivas Prakash Pakala)  
         1.9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1  
         2.9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1  
