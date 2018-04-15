@@ -28,13 +28,13 @@ Course Number: 44-564
      Venkata Naga Mahesh Kumar Vankayala
 
 ### 2. Link to the public repository
-     https://github.com/maheshvankayala/CrimePatrol
+   https://github.com/maheshvankayala/CrimePatrol
 
 #### Issues
-     1. https://github.com/maheshvankayala/CrimePatrol/issues/1
-     2. https://github.com/maheshvankayala/CrimePatrol/issues/2
-     3. https://github.com/maheshvankayala/CrimePatrol/issues/3
-     4. https://github.com/maheshvankayala/CrimePatrol/issues/4  
+  1. https://github.com/maheshvankayala/CrimePatrol/issues/1
+  2. https://github.com/maheshvankayala/CrimePatrol/issues/2
+  3. https://github.com/maheshvankayala/CrimePatrol/issues/3
+  4. https://github.com/maheshvankayala/CrimePatrol/issues/4  
 
 
 **3. Introduction**
@@ -57,8 +57,8 @@ Course Number: 44-564
         Format: Structured
 
 ### 5.Link for the dataset
-    Link for dataset1 (Crime in Baltimore)- https://www.kaggle.com/sohier/crime-in-baltimore
-    Link for dataset2 (Newyork City Crimes)- https://www.kaggle.com/adamschroeder/crimes-new-york-city/version/1#_=_
+   Link for dataset1 (Crime in Baltimore)- https://www.kaggle.com/sohier/crime-in-baltimore
+   Link for dataset2 (Newyork City Crimes)- https://www.kaggle.com/adamschroeder/crimes-new-york-city/version/1#_=_
 
 ### 6. Big data Qualifications
     VOLUME: The size of our data set is 253.42 MB,40 MB.
