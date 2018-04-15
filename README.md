@@ -103,7 +103,7 @@ Course Number: 44-564
         **3.Reducer output**-23:30:00,1  
         **4.Language**-Python  
          **5.Kind of Chart**-Sorted Bar Chart
-         [Pakala_Output.xlsx](https://github.com/maheshvankayala/CrimePatrol/files/1913499/Pakala_Output.xlsx)
+         ![screenshot 147](https://user-images.githubusercontent.com/31742996/38784687-6ef1f576-40db-11e8-91c9-6ef87a01e31f.png)
          **Mapper output screenshot:**
          ![pakala_mapperoutput](https://user-images.githubusercontent.com/31742996/38784604-df20c25c-40d9-11e8-8899-725dfb52ad8c.png)
          **Reducer output screenshot:**
@@ -115,7 +115,7 @@ Course Number: 44-564
         **3.Reducer output**-ROBBERY,1  
         **4.Language**-Python  
         **5.Kind of Chart**-Pie Chart 
-        [Vankayala_Output.xlsx](https://github.com/maheshvankayala/CrimePatrol/files/1913501/Vankayala_Output.xlsx)
+        ![screenshot 148](https://user-images.githubusercontent.com/31742996/38784680-56aa0e4a-40db-11e8-8d1a-db684aa3c34e.png)
         **Mapper output screenshot:**
         ![vankayala_mapperoutput](https://user-images.githubusercontent.com/31742996/38784626-3f2d0d0e-40da-11e8-9437-657d5ff0f00a.png)
         **Reducer output screenshot:**
