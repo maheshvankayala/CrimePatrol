@@ -97,7 +97,7 @@ Course Number: 44-564
         **Reducer output screenshot:**
         ![screenshot 143](https://user-images.githubusercontent.com/31742996/38780398-321e3f50-409b-11e8-9e49-ea0bba6d6960.png)
 
-#### Crime Time(Nagateja Seetharama Srinivas Prakash Pakala)  
+**Crime Time(Nagateja Seetharama Srinivas Prakash Pakala)**  
         1.9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1  
         2.9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1  
         **3.Key,value**-23:30:00,1  
@@ -109,7 +109,7 @@ Course Number: 44-564
          **Reducer output screenshot:**
          ![pakala_reduceroutput](https://user-images.githubusercontent.com/31742996/38784609-f03f21dc-40d9-11e8-9081-cd2c25ace6c2.png)
          
-#### Crime Type(Venkata Naga Mahesh Kumar Vankayala)  
+**Crime Type(Venkata Naga Mahesh Kumar Vankayala)**  
         1.9/2/2017 23:30:00 3JK 4200 AUDREY AVE,ROBBERY - RESIDENCE I KNIFE 913 SOUTHERN Brooklyn -76.60541 39.22951 (39.2295100000, -76.6054100000) ROW/TOWNHO 1  
         2.9/2/2017,23:30:00,3JK,4200 AUDREY AVE,ROBBERY,RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-76.60541,39.22951,(39.2295100000, -76.6054100000),ROW/TOWNHO,1  
         **3.Reducer output**-ROBBERY,1  
