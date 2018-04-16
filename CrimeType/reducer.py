@@ -13,12 +13,12 @@ for line in sortedFile:
     thisKey, thisValue = data_mapped
     if oldKey and oldKey != thisKey:
         reducedFile.write(oldKey + "\t" + str(crimeTotal) + "\n")
-        oldKey= thisKey;
+        oldKey= thisKey
         crimeTotal = 0
     oldKey = thisKey
     crimeTotal += int(thisValue)
 if oldKey != None:
-    reducedFile.write(oldKey + "/t" + str(crimeTotal))
+    reducedFile.write(oldKey + '/t' + str(crimeTotal))
 
 sortedFile.close()
 reducedFile.close()
