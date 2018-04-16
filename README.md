@@ -115,7 +115,7 @@ Link for dataset2 (Newyork City Crimes)- https://www.kaggle.com/adamschroeder/cr
         **3.Reducer output**-ROBBERY,1  
         **4.Language**-Python  
         **5.Kind of Chart**-Pie Chart 
-        ![screenshot 148](https://user-images.githubusercontent.com/31742996/38784680-56aa0e4a-40db-11e8-8d1a-db684aa3c34e.png)
+        ![screenshot 149](https://user-images.githubusercontent.com/31742996/38787508-ebf5fbe0-40f3-11e8-9908-175d4a0645f6.png)
         **Mapper output screenshot:**
         ![vankayala_mapperoutput](https://user-images.githubusercontent.com/31742996/38784626-3f2d0d0e-40da-11e8-9437-657d5ff0f00a.png)
         **Reducer output screenshot:**
