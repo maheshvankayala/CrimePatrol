@@ -103,7 +103,7 @@ Link for dataset2 (Newyork City Crimes)- https://www.kaggle.com/adamschroeder/cr
         **3.Reducer output**-23:30:00,1  
         **4.Language**-Python  
          **5.Kind of Chart**-Sorted Bar Chart
-         ![screenshot 147](https://user-images.githubusercontent.com/31742996/38784687-6ef1f576-40db-11e8-91c9-6ef87a01e31f.png)
+         ![screenshot 150](https://user-images.githubusercontent.com/31742996/38787553-4584f206-40f4-11e8-8b7c-24292f0823f1.pn
          **Mapper output screenshot:**
          ![pakala_mapperoutput](https://user-images.githubusercontent.com/31742996/38784604-df20c25c-40d9-11e8-8899-725dfb52ad8c.png)
          **Reducer output screenshot:**
